@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+}
+
+header {
+    background-color: beige;
+    padding: 15px;
+}
+
+#book_comments {
+    padding: 20px;
+    height: 100px;
+    overflow: auto;
+}
+
+footer {
+    background-color: beige;
+    padding: 15px;
+    bottom: 0;
+}
